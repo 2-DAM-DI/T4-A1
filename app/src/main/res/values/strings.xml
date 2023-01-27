@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">a41_disenyo_interficies_movil</string>
+    <string name="app_name">Diseño de Interfaces Móviles</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
@@ -13,4 +13,9 @@
     <string name="fila_4_col_1">Fila 4 Col 1</string>
     <string name="fila_4_col_2">Fila 4 Col 2</string>
     <string name="fila_5">Fila 5</string>
+    <string name="adre_a">Adreça</string>
+    <string name="email_t5">Email</string>
+    <string name="tel_fon">Telèfon</string>
+    <string name="nom">Nom</string>
+    <string name="enviar">Enviar</string>
 </resources>
